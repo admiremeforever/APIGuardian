@@ -1,5 +1,5 @@
 Steps to test the application 
-Requirements (JDK 17 & and any Suitale IDS and POSTMAN)
+Requirements (JDK 17 & and any Suitable IDS and POSTMAN)
  
 Step 1-> Run the application (it should run on 8080), and open Postman.
 
