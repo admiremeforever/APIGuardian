@@ -1,4 +1,4 @@
-package com.example.APIGuardian;
+package com.APIGuardian.APIGuardian;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

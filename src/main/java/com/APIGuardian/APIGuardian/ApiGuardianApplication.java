@@ -1,4 +1,4 @@
-package com.example.APIGuardian;
+package com.APIGuardian.APIGuardian;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
